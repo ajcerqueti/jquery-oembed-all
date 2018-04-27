@@ -1,10 +1,10 @@
 
 {
   "name": "jquery-oembed-all",
-  "version": "0.9.0-rc1",
-  "homepage": "https://github.com/nfl/jquery-oembed-all",
+  "version": "0.9.1",
+  "homepage": "https://github.com/squareupmedia/jquery-oembed-all",
   "authors": [
-    "National Football League <engineers@nfl.com>"
+    "AJ Cerqueti <aj@cerqueti.co.uk>"
   ],
   "description": "Use native oEmbed services when possible.",
   "main": "jquery.oembed.js",
